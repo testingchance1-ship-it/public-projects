@@ -1,3 +1,5 @@
 #this file lists the dependecies for all of the projects in this folder
 supabase
 openai
+python-dotenv
+requests
