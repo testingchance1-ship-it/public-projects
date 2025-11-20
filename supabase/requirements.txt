@@ -1,0 +1,14 @@
+openai
+azure.functions
+langchain
+langchain-ollama
+langchain-chroma
+langchain-community
+langchain-openai
+python-dotenv
+pydantic
+pandas
+retriever
+chromadb
+numpy
+supabase
