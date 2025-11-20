@@ -1,8 +1,6 @@
 # public-projects
 just exploring modern tech and continuing my education, who knows where it will lead
 
-connect 4 is a simple game to play in vscode or whatever editor you choose, its setup to play against someone, not sure why you would play it but it something simple as im learning 
+There is a games folder, where i will be puting games that can be played in terminal, maybe i will make it into an app
 
-csv import to supabase takes a csv file and uses openai to create vector information then pushed both the csv and the vector information into a supabase table for whatever you want to do wiht the information
-
-the fetch script just pulls the data of a single table into the terminal, not sure why youd use it but hey, fun to learn what you can do 
+There is a supabase folder for people who are interested in creating an account and inputting data to query or have AI query
