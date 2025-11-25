@@ -1,11 +1,11 @@
 # ai-training-
 training local AI to parse data
 
-the only true requirements to run this is a
-    OPENAI API KEY
-    SUBABASE ACCOUNT
-    SUPABASE URL
-    SUPABASE API KEY
+the only true requirements to run this is to have your own API keys for the following
+    OPENAI API KEY,
+    SUBABASE ACCOUNT,
+    SUPABASE URL,
+    SUPABASE API KEY,
 
 the run_pipline.py script will run you through everything all at once, there are manual inputs and manual steps to take along the way
 
