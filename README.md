@@ -5,3 +5,5 @@ There is a games folder, where i will be puting games that can be played in term
 
 There is a supabase folder for people who are interested in creating an account and inputting data to query or have AI query
     there are 2 different csv files in there for people to mess with 
+
+There is a neural network folder, where im experimenting creating my own neural network. maybe one day it will be a model on hugging face
