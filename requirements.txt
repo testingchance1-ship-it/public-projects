@@ -1,1 +1,0 @@
-#each folder has their own requirements file
